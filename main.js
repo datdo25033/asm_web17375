@@ -13,7 +13,7 @@ const products = [{
         year: 2020,
         infor1: "Dashboard",
         infor2: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet",
-        img: "imgs/Rectangle 30.jpg"
+        img: "./imgs/Rectangle 30.jpg"
     },
     {
 
@@ -22,7 +22,7 @@ const products = [{
         year: 2018,
         infor1: "Illustration",
         infor2: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet",
-        img: "imgs/Rectangle 32.jpg"
+        img: "./imgs/Rectangle 32.jpg"
 
     },
     {
@@ -31,7 +31,7 @@ const products = [{
         year: 2018,
         infor1: "DTypography",
         infor2: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet",
-        img: "imgs/Rectangle 34.jpg"
+        img: "./imgs/Rectangle 34.jpg"
     },
     {
         id: 4,
@@ -39,7 +39,7 @@ const products = [{
         year: 2018,
         infor1: "Components, Design",
         infor2: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet",
-        img: "imgs/Rectangle 30.jpg"
+        img: "./imgs/Rectangle 30.jpg"
     }
 ]
 
