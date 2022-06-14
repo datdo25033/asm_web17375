@@ -54,7 +54,7 @@ if (found) {
             <div class="max-w-[681px] mx-auto">
                 <h2 class="text-[34px] font-bold">${found.title}</h2>
                 <div class="flex space-x-5 py-5">
-                    <a href="" class="inline-block rounded-full bg-red-500 text-white font-bold px-3">${found.year}</a>
+                    <a href="" class="inline-block rounded-full bg-red-500 text-white font-bold px-4">${found.year}</a>
                     <span class="text-[#8695A4]">${found.infor1}</span>
                 </div>
                 <p>${found.infor2}</p>
